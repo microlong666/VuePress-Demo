@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/',
+    base: '/VuePress-Demo/',
     title: 'VuePress',
     description: 'Vue 驱动的静态网站生成器',
     head: [
